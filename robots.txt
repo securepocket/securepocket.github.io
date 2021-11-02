@@ -1,0 +1,4 @@
+Sitemap: https://securepocket.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
